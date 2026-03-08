@@ -1,0 +1,65 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Nick Zappia"
+theme = "terminal"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 7
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Nick Zappia"
+
+    [languages.en.params]
+      subtitle = "ML, software, research, and music"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "music"
+  name = "Music"
+  url = "/music/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/"
+  weight = 6
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 7

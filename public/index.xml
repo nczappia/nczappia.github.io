@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nick Zappia</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Nick Zappia</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Mar 2026 19:41:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medical Imaging</title>
+      <link>http://localhost:1313/research/medical-imaging/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:33 -0500</pubDate>
+      <guid>http://localhost:1313/research/medical-imaging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm Safety</title>
+      <link>http://localhost:1313/research/llm-safety/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:32 -0500</pubDate>
+      <guid>http://localhost:1313/research/llm-safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carla Experiments</title>
+      <link>http://localhost:1313/projects/carla-experiments/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:29 -0500</pubDate>
+      <guid>http://localhost:1313/projects/carla-experiments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baboon Teeth</title>
+      <link>http://localhost:1313/projects/baboon-teeth/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:24 -0500</pubDate>
+      <guid>http://localhost:1313/projects/baboon-teeth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:11 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:11 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sat, 07 Mar 2026 19:41:11 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graph ML for Music Style Modeling</title>
+      <link>http://localhost:1313/projects/graph-ml-music/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/graph-ml-music/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project explores how graph deep learning can model relationships between songs, artists, harmonic patterns, and stylistic tendencies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;I wanted to combine my interests in machine learning and music into a project that is both technically interesting and creatively meaningful.&lt;/p&gt;&#xA;&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;heterogeneous graph construction&lt;/li&gt;&#xA;&lt;li&gt;node and edge feature design&lt;/li&gt;&#xA;&lt;li&gt;graph neural networks for prediction and embedding&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;&#xA;&lt;p&gt;Python, PyTorch Geometric, NetworkX, pandas&lt;/p&gt;&#xA;&lt;h2 id=&#34;outcome&#34;&gt;Outcome&lt;/h2&gt;&#xA;&lt;p&gt;The goal is to better understand stylistic similarity, genre structure, and musical tendencies using graph representations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
